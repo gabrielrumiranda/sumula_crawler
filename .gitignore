@@ -1,0 +1,6 @@
+lib/
+lib64
+lib64/
+__pycache__/
+sumula_crawler/__pycache__/
+share/python-wheels/
